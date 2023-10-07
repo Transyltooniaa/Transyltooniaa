@@ -1,4 +1,3 @@
-[![An image of @transyltooniaa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/transyltooniaa)](https://holopin.io/@transyltooniaa)
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Ajitesh Kumar Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -50,7 +49,14 @@ const ajitesh = {
 };
 ```
 
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+<div>
+    <h3>Badges</h3>
+    [![An image of @transyltooniaa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/transyltooniaa)](https://holopin.io/@transyltooniaa)
+</div>
+
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=transyltooniaa&label=Profile%20views&color=0e75b6&style=flat" alt="transyltooniaa" /> </p>
 

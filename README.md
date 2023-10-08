@@ -56,7 +56,6 @@ const ajitesh = {
  
 [![An image of @transyltooniaa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/transyltooniaa)](https://holopin.io/@transyltooniaa)
 
-
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=transyltooniaa&label=Profile%20views&color=0e75b6&style=flat" alt="transyltooniaa" /> </p>
 

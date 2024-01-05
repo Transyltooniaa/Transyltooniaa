@@ -30,7 +30,7 @@
 ```javascript
 const ajitesh = {
     pronouns: "He" | "Him",
-    code: ["C++", "Python", "C"],
+    code: ["C++", "Python", "C" , "Javascript" , "Go", "Java", "C++"]
     askMeAbout: ["web dev", "tech", "movies", "life"],
     technologies: {
         backEnd: {
@@ -40,7 +40,7 @@ const ajitesh = {
             native: ["Android Development"]
         },
         devOps: ["😅 "],
-        databases: ["mongo", "MySql", "sqlite"],
+        databases: ["mongoDB", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     }
     currentFocus: "No Focus point at this time",

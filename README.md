@@ -31,17 +31,13 @@
 const ajitesh = {
     pronouns: "He" | "Him",
     code: ["C++", "Python", "C" , "Javascript" , "Go", "Java", "C++"]
-    askMeAbout: ["web dev", "tech", "movies", "life"],
+    askMeAbout: ["Web Dev", "automation"]
     technologies: {
         backEnd: {
-            js: ["Node"],
+            js: ["Node Js" , "django" , "Spring Boot"],
         },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["😅 "],
         databases: ["mongoDB", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv" , 'scss']
     }
     currentFocus: "No Focus point at this time",
     funFact: "There are two ways to write error-free programs; only the third one works"

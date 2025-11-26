@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/ajitesh-kumar-singh-140529201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajitesh kumar singh" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_ajitesh_2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajitesh_2003" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/imt2022559" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="imt2022559" height="30" width="40" /></a>
-<a href="https://leetcode.com/Transyltooniaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="transyltoonia" height="30" width="40" /></a>
+<a href="https://leetcode.com/Transyltoonia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="transyltoonia" height="30" width="40" /></a>
 </p>
 
 ---

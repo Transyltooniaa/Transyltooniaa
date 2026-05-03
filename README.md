@@ -1,67 +1,146 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Ajitesh Kumar Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Student at <a href="https://www.iiitb.ac.in/">IIITB
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<div align="center">
 
-<p align="left">
-<a href="https://www.linkedin.com/in/ajitesh-kumar-singh-140529201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajitesh kumar singh" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_ajitesh_2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajitesh_2003" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/imt2022559" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="imt2022559" height="30" width="40" /></a>
-<a href="https://leetcode.com/Transyltoonia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="transyltoonia" height="30" width="40" /></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ajitesh%20Kumar%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Student%20%7C%20Builder%20%7C%20ML%20Enthusiast&descAlignY=55&descSize=18"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&random=false&width=600&height=60&lines=%F0%9F%91%8B+Namaste%2C+I'm+Ajitesh!;%F0%9F%A7%A0+Machine+Learning+Engineer;%F0%9F%8C%90+Full+Stack+Developer;%F0%9F%9A%80+Always+Learning+Something+New;%E2%9A%A1+I+can+learn+anything!" alt="Typing SVG"/>
+
+<br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="coding gif"/>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/ajitesh-kumar-singh-140529201/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:Ajitesh.Kumar@iiitb.ac.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/_ajitesh_2003/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://leetcode.com/Transyltoonia/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=transyltooniaa&label=Profile+Views&color=brightgreen&style=flat-square)
+![Followers](https://img.shields.io/github/followers/transyltooniaa?style=flat-square&color=blue&label=Followers)
+
+</div>
 
 ---
 
-<p align="left"> <a href="https://twitter.com/ajiteshkumarsi9" target="blank"><img src="https://img.shields.io/twitter/follow/ajiteshkumarsi9?logo=twitter&style=for-the-badge" alt="ajiteshkumarsi9" /></a> </p>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
 
-- 👯 I’m looking to collaborate on **Web development**
-
-- 💬 Ask me about **Machine learning, Web Dev, python , c++ , c , movies and web series **
-
-- 📫 How to reach me **Ajitesh.Kumar@iiitb.ac.in**
-
-- ⚡ Fun fact **I can learn anything**
-
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="240"/>
 
 ```javascript
 const ajitesh = {
-    pronouns: "He" | "Him",
-    code: ["C++", "Python", "C" , "Javascript" , "Go", "Java", "C++"]
-    askMeAbout: ["Machine Learning", "Web Dev", "automation"]
-    technologies: {
-        backEnd: {
-            js: ["VueJS", "Node Js" , "django" , "Spring Boot"],
-        },
-        databases: ["mongoDB", "MySql", "sqlite"],
-        misc: ["skit-learn", "pytorch" ,"Firebase", "Socket.IO", "selenium", "open-cv" , 'scss']
-    }
-    currentFocus: "No Focus point at this time",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+  location   : "IIIT Bangalore ",
+  pronouns   : ["He", "Him"],
+
+  languages  : ["C++", "Python", "JavaScript",
+                "Go", "Java", "C"],
+
+  frontend   : ["VueJS", "HTML5", "SCSS"],
+  backend    : ["Node.js", "Django", "Spring Boot"],
+  databases  : ["MongoDB", "MySQL", "SQLite"],
+
+  ml_stack   : ["PyTorch", "scikit-learn", "OpenCV"],
+
+  lookingFor : "Web Dev collaborations 🤝",
+  superpower : "I can learn ANYTHING ⚡",
+
+  funFact    : `"There are two ways to write
+                 error-free programs;
+                 only the third one works"`,
 };
 ```
 
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
----
-<h2 align = center > Badges </h2>
- 
-[![An image of @transyltooniaa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/transyltooniaa)](https://holopin.io/@transyltooniaa)
-
----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=transyltooniaa&label=Profile%20views&color=0e75b6&style=flat" alt="transyltooniaa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=transyltooniaa" alt="transyltooniaa" /></a> </p>
+<br clear="right"/>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3> 
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/> Tech Stack
+
+<div align="center">
+
+### 🗣️ Languages
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+### 🎨 Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
+### ⚙️ Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🤖 Machine Learning / AI
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=transyltooniaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=transyltooniaa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=transyltooniaa&theme=tokyonight&hide_border=true&border_radius=10" width="500"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=transyltooniaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
+
+</div>
 
 
+---
+
+## 🏅 Holopin Badges
+
+<div align="center">
+
+[![Holopin Badges](https://holopin.me/transyltooniaa)](https://holopin.io/@transyltooniaa)
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"/> Let's Connect!
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+
+### *I love connecting with different people!*
+### *Drop a hi — I'll be happy to meet you!* 😊
+
+**📧 Ajitesh.Kumar@iiitb.ac.in**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
+</div>
